@@ -29,6 +29,11 @@ version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 
+#[Spotify]
+#enabled = false
+#uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+#version = "9.0.36.683"
+
 # dont build on gh actions (https://github.com/j-hc/revanced-magisk-module/issues/554)
 [Music-Extended]
 enabled = false
@@ -88,6 +93,7 @@ enabled = true
 uptodown-dlurl = "https://tasker.en.uptodown.com/android"
 
 [Reddit-Extended]
+enabled = false
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
@@ -107,10 +113,3 @@ enabled = false
 build-mode = "apk"
 version = "auto"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
-
-[Spotify-Lite]
-enabled = true
-build-mode = "apk"
-version = "auto"
-uptodown-dlurl = "https://spotify-lite.en.uptodown.com/android"
-
