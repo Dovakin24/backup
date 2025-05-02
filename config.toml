@@ -84,4 +84,6 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-s
 
 [com.facebook.katana]
 enabled = true
+app-name = "Facebook"
+version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
