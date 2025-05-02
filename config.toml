@@ -90,3 +90,31 @@ uptodown-dlurl = "https://facebook.en.uptodown.com/android"
 [Tasker]
 enabled = true
 uptodown-dlurl = "https://tasker.en.uptodown.com/android"
+
+[Reddit-Extended]
+patches-source = "inotia00/revanced-patches"
+integrations-source = "inotia00/revanced-integrations"
+cli-source = "inotia00/revanced-cli"
+rv-brand = "ReVanced Extended"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
+uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
+
+[Reddit]
+version = "auto"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
+uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
+
+[Spotify]
+enabled = false
+build-mode = "apk"
+version = "auto"
+uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+
+[Spotify-Lite]
+enabled = true
+build-mode = "apk"
+version = "auto"
+uptodown-dlurl = "https://spotify-lite.en.uptodown.com/android"
+
