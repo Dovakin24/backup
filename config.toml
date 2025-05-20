@@ -40,7 +40,8 @@ uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 [Music-Extended]
 enabled = true
 app-name = "Music"
-patches-source = "inotia00/revanced-patches"
+patches-source = "anddea/revanced-patches"
+#patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "apk"
@@ -55,8 +56,10 @@ patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "apk"
+included-patches = "'MaterialYou'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+
 
 [Twitch]
 enabled = false
