@@ -31,10 +31,10 @@ version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 
-[Spotify]
-enabled = true
-uptodown-dlurl = "https://apkmirror.com/apk/"
-version = "auto"
+#[Spotify]
+#enabled = true
+#uptodown-dlurl = "https://apkmirror.com/apk/"
+#version = "auto"
 #version = "9.0.36.683"
 
 # dont build on gh actions (https://github.com/j-hc/revanced-magisk-module/issues/554)
