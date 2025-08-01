@@ -114,3 +114,6 @@ uptodown-dlurl = "https://tasker.en.uptodown.com/android"
 #build-mode = "apk"
 #version = "auto"
 #uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+
+[Reddit]
+apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
