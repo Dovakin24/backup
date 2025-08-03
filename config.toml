@@ -117,3 +117,5 @@ uptodown-dlurl = "https://tasker.en.uptodown.com/android"
 
 [Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
+patches-source = "inotia00/revanced-patches"
+cli-source = "inotia00/revanced-cli"
