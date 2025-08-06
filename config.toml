@@ -117,6 +117,7 @@ uptodown-dlurl = "https://tasker.en.uptodown.com/android"
 
 
 [Reddit]
+enabled = false
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
