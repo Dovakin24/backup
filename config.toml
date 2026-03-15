@@ -50,7 +50,7 @@ build-mode = "apk"
 arch = "both"
 included-patches = "'Bitrate default value''Bypass image region restrictions''Certificate spoof''Change share sheet''Change start page''Custom branding icon for YouTube Music''Custom branding name for YouTube Music''Custom header for YouTube Music''Dark theme''Disable Cairo splash animation''Disable QUIC protocol''Disable dislike redirection''Disable forced auto audio tracks''Disable forced auto captions''Disable music video in album''Enable debug logging''Enable landscape mode''Flyout menu components''GmsCore support''Hide account components''Hide action bar components''Hide ads''Hide layout components''Navigation bar components''Player components''Remove background playback restrictions''Remove viewer discretion dialog''Restore old style library shelf''Return YouTube Dislike''Sanitize sharing links''Settings for YouTube Music''SponsorBlock''Spoof app version for lyrics''Translations for YouTube Music''Video playback''Visual preferences icons for YouTube Music''Watch history'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
 [YouTube-Extended]
 enabled = true
@@ -61,7 +61,7 @@ rv-brand = "ReVanced Extended"
 build-mode = "apk"
 included-patches = "'MaterialYou'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 
 [Twitch]
